@@ -1,2 +1,3 @@
 appName: shipping
 params: "dev.shipping.cart_endpoint dev.rds.db_user dev.rds.db_pass dev.rds.db_host"
+appPort: 8080
